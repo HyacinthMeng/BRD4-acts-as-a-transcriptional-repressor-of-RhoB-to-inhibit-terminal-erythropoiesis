@@ -1,5 +1,8 @@
 # BRD4_differentiation-and-development
-The code on this paper；
+
+By Hyacinth Meng  @ZJU   
+
+The codes on this paper；
 
 1. Analyse Epi. Drug library
 2. Analyse RNAseq
