@@ -1,9 +1,8 @@
 ## Analysis files accompanying paper entitle/topic "BRD4_differentiation-and-development"
 
-# By Hyacinth Meng   202110---202312
+#### By Hyacinth Meng   202110---202312
 
-This repository contains the bash and R code used to analyze and generate the images for the paper. Files contained are:
-The codes on this paper；
+### This repository contains the bash and R code used to analyze and generate the images for the paper. Files contained are:
 
 1. Analyse Epigenetics compound screening
 2. Analyse Digital RNA-Sequencing (UID-RNAseq)
