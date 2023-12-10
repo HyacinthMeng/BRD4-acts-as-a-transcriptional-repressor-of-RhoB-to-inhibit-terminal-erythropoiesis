@@ -2,6 +2,7 @@
 
 By Hyacinth Meng  @ZJU   
 
+This repository contains the bash and R code used to analyze and generate the images for the paper. Files contained are:
 The codes on this paper；
 
 1. Analyse Epi. Drug library
@@ -9,9 +10,9 @@ The codes on this paper；
 3. Analyse ATAcseq
 4. Analyse Cuttag
 
-Analysis files accompanying eLife paper entitle "Single cell analysis of HSV-1 infection reveals anti-viral and developmental programs are activated in distinct sub-populations with opposite outcomes"
 
-This repository contains the Matlab code used to analyze and generate the images for the single-cell anlyses in the paper. Files contained are:
+
+
 
 scRNAseq_analysis_final_042519_for_Github.m : this is a matlab code file that will run all the analyses and procude the figures from the paper. It was constructed and used in MATLAB2018a version.
 Files_for_analysis_intitation.mat : this matlab files contains the raw data from sequencing of the three samples (mock_orig, wt_orig ad do_orig), the gene names (names_mock, names_wt and names_d0) and "colors" - used for coloring the plots. the mock_orig, wt_orig and d0_orig are DGE (digital gene expression) matrices. each row is a gene and is coloum is a cell. the names_mock, names_wt and names_d0 are arrays holding the names of the genes (=rows) for each corresponding matrix. mock are mock-infected cells, wt are wild-type HSV-1 infected cells and d0 are deltaICP0 HSV-1 infected cells.
