@@ -1,4 +1,4 @@
-## Analysis files accompanying paper entitle/topic "BRD4_differentiation-and-development"
+## Analysis files accompanying paper entitle/topic "BRD4 & erythroid differentiation and development"
 
 #### By Hyacinth Meng   202110---202312
 
