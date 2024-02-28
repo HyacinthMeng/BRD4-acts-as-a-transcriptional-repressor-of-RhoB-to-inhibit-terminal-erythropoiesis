@@ -1,6 +1,4 @@
 Results ranked by Betweenness
-Date: 2023-10-11 20:05:47
-
 1	BRD4	Betweenness: 2369.9612		
 2	KDM1A	Betweenness: 2010.3203		
 3	HDAC1	Betweenness: 1620.7452		
