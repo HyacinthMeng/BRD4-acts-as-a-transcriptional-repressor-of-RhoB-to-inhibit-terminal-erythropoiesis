@@ -1,0 +1,63 @@
+ID	MOLENAME	CAS	Target_Group	LOGFC_GPA	Genesymbol
+F058-0423	F058-0423	F058-0423	Histone acetyltransferase and histone deacetylases	-0.707218512	KAT2A,KAT2B
+G070-0228	G070-0228	G070-0228	Histone methyltransferase and histone demethylase	-0.680006322	NA
+T0158	Mitoxantrone hydrochloride	70476-82-3	Topoisomerase(TOP1, 2A,2B)	2.097675684	TOP2A, TOP2B
+T1272	Cytarabine	147-94-4	Others	1.323480898	NA
+T1521	Hydroxy Camptothecine	64439-81-2	Topoisomerase(TOP1, 2A,2B)	0.925273891	TOP1
+T1523	Teniposide	29767-20-2	Topoisomerase(TOP1, 2A,2B)	0.563709939	TOP2A, TOP2B
+T1818	Tenovin-6	1011557-82-6	Histone acetyltransferase and histone deacetylases	-0.646935421	SIRT1; SIRT2; SIRT3
+T1873	Tenovin3	1011301-27-1	Histone acetyltransferase and histone deacetylases	0.504781962	SIRT2
+T1959	BIX 01294 Trihydrochloride	1392399-03-9	Histone methyltransferase and histone demethylase	0.575729053	EHMT2
+T2354	UNC0631	1320288-19-4	Histone methyltransferase and histone demethylase	0.544101799	EHMT2
+T2649	MI2	1271738-62-5	Histone methyltransferase and histone demethylase	0.621379719	MEN1/KMT2A
+T3257	UNC0638	1255580-76-7	Histone methyltransferase and histone demethylase	0.802680431	EHMT2/EHMT1
+T3712	Mivebresib	1445993-26-9	Bromodomain proteins (BRD)	0.631360173	BRD4
+T4166	UNC0642	1481677-78-4	Histone methyltransferase and histone demethylase	0.572597346	EHMT2/EHMT1
+T4418	GSK2879552 2HCl (1401966-69-5(free base))	T4418	Histone methyltransferase and histone demethylase	-1.894624886	KDM1A
+T5434	ARV-825	1818885-28-7	Bromodomain proteins (BRD)	2.31140194	BRD4
+T5442	A1874	2064292-12-0	Bromodomain proteins (BRD)	1.25599251	BRD4
+T5605	EZM 2302	1628830-21-6	Histone methyltransferase and histone demethylase	0.771549948	CARM1
+T5825	ORY-1001(trans)	1431303-72-8	Histone methyltransferase and histone demethylase	-1.336032237	KDM1A
+T6021	GSK1324726A	1300031-52-0	Bromodomain proteins (BRD)	0.513470777	BRD2; BRD3; BRD4
+T6073	OG-L002	1357302-64-7	Histone methyltransferase and histone demethylase	-0.94291082	KDM1A
+T6127	Rucaparib Phosphate	459868-92-9	Others	-0.59151218	PARP-1, PARP-2 and PARP-3
+T6173	BI 2536	755038-02-9	Bromodomain proteins (BRD)	1.086788803	BRD4; PLK1; PLK2; PLK3
+T6228	Irinotecan	97682-44-5	Topoisomerase(TOP1, 2A,2B)	0.546324536	TOP1
+T6371	AGK2	304896-28-4	Histone acetyltransferase and histone deacetylases	1.569253903	SIRT2
+T6588	Mitoxantrone	65271-80-9	Topoisomerase(TOP1, 2A,2B)	1.405123824	TOP2A, TOP2B
+T6628	Pirarubicin	72496-41-4	Topoisomerase(TOP1, 2A,2B)	1.883689169	TOP2A, TOP2B
+T6790	BMS911543	1271022-90-2	Others	-0.542561852	JAK2 ;SET2;TYK2; JAK3; JAK1
+T6811	CPI637	1884712-47-3	Histone acetyltransferase and histone deacetylases	-0.748853746	CREBBP, EP300
+T2512	Mocetinostat	726169-73-9	Histone acetyltransferase and histone deacetylases	-0.501805044	HDAC1; HDAC11; HDAC2; HDAC3
+T6922	ORY1001	1431326-61-2	Histone methyltransferase and histone demethylase	-1.766332864	KDM1A
+T2383	Panobinostat	404950-80-7	Histone acetyltransferase and histone deacetylases	-0.71684869	HDAC1,HDAC2,HDAC3,HDAC4,HDAC5,HDAC6,HDAC7,HDAC8,HDAC9,HDAC10,HDAC11
+T6055	Quisinostat	875320-29-9	Histone acetyltransferase and histone deacetylases	-0.764609831	HDAC1; HDAC10; HDAC11; HDAC2; HDAC3; HDAC4; HDAC5; HDAC8
+T6279	Givinostat hydrochloride monohydrate	732302-99-7	Histone acetyltransferase and histone deacetylases	-0.950726089	HDAC1,HDAC3
+T4389	SR4370	1816294-67-3	Histone acetyltransferase and histone deacetylases	-1.591206751	HDAC1; HDAC2; HDAC3
+T0431	PCI24781	783355-60-2	Histone acetyltransferase and histone deacetylases	-2.118399861	HDAC1; HDAC10; HDAC2; HDAC3/NCOR2; HDAC6
+T7942	Tranylcypromine (hemisulfate)	13492-01-8	Histone methyltransferase and histone demethylase	-0.539906856	KDM1A
+8013-0848	8013-0848	8013-0848	Histone methyltransferase and histone demethylase	-0.00156908	KDM4E
+G395-0811	G395-0811	G395-0811	Histone methyltransferase and histone demethylase	0.038853036	KAT2A,KAT2B
+G402-0070	G402-0070	G402-0070	Others	-0.107220371	BAZ2B
+G856-1908	G856-1908	G856-1908	Others	0.152644357	BAZ2B
+T2072	BET bromodomain inhibitor	1505453-59-7	Bromodomain proteins (BRD)	0.104621158	BRD2; BRD3; BRD4
+T2110	(+)-JQ-1	1268524-70-4	Bromodomain proteins (BRD)	-0.01912828	BRD4
+T2120	I-BET151	1300031-49-5	Bromodomain proteins (BRD)	-0.253484784	BRD2; BRD3; BRD4
+T5347	CXD-101	934828-12-3	Histone acetyltransferase and histone deacetylases	0.18153172	HDAC1 ;HDAC3 ;HDAC2
+T2315	GSK-LSD1 dihydrochloride	1431368-48-7	Histone methyltransferase and histone demethylase	-0.196157886	KDM1A
+T2442	CPI203	202591-23-9	Bromodomain proteins (BRD)	-0.472538144	BRD4
+T7385	WT-161	1206731-57-8	Histone acetyltransferase and histone deacetylases	0.135214752	HDAC6
+T2S0300	Hydrocoumarin	119-84-6	Histone acetyltransferase and histone deacetylases	-0.193605469	SIRT1;SIRT2
+T3458	EED226	2083627-02-3	Others	-0.201975681	EED
+T3504	AZD5153 6-Hydroxy-2-naphthoic acid	1869912-40-2	Bromodomain proteins (BRD)	-0.079751994	BRD4
+T5440	Dbet57	1883863-52-2	Bromodomain proteins (BRD)	0.219285982	BRD4
+T5618	AK-1	330461-64-8	Histone acetyltransferase and histone deacetylases	-0.186205831	SIRT2
+T6980	Scriptaid	287383-59-9	Histone acetyltransferase and histone deacetylases	-0.197087158	HDAC1,HDAC2,HDAC3
+T6026	CPI203	1446144-04-2	Bromodomain proteins (BRD)	-0.13945824	BRD4
+T6032	Birabresib	202590-98-5	Bromodomain proteins (BRD)	-0.440272943	BRD2; BRD3; BRD4
+T7664	Pyroxamide	382180-17-8	Histone acetyltransferase and histone deacetylases	-0.242411148	HDAC1
+T3509	ACY738	1375465-91-0	Histone acetyltransferase and histone deacetylases	-0.493790051	HDAC6
+T6783	BI7273	1883429-21-7	Bromodomain proteins (BRD)	-0.108531117	BRD7; BRD9
+T7378	BRD9539	1374601-41-8	Histone methyltransferase and histone demethylase	0.142211883	EHMT2
+Y020-0921	Y020-0921	Y020-0921	Histone methyltransferase and histone demethylase	-0.01892287	KDM4E
+Y031-4527	Y031-4527	Y031-4527	Histone methyltransferase and histone demethylase	-0.016050201	KDM4A

@@ -13,4 +13,4 @@
 7. Time Series Gene Clustering
 8. Analyse co-immunoprecipitation (Co-IP) and mass spectrum (MS)  on BRD4
 
-Please contact the author of the paper, Ye Meng (mengyeanhui@gmail.com)  OR Meng zhang(zhangm1990@zju.edu.cn ) ), with any comments, concerns or requests. We'll be happy to help you adapt our pipeline for your analyses!
+Please contact the author of the paper, Ye Meng (mengyeanhui@gmail.com)  OR Meng zhang(zhangm1990@zju.edu.cn ), with any comments, concerns or requests. We'll be happy to help you adapt our pipeline for your analyses!
