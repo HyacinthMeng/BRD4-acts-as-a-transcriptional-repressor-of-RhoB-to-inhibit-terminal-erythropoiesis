@@ -1,0 +1,120 @@
+Term	Gene
+regulation of transcription elongation by RNA polymerase II	PWWP2B
+regulation of transcription elongation by RNA polymerase II	BRD4
+regulation of transcription elongation by RNA polymerase II	MED1
+regulation of transcription elongation by RNA polymerase II	GTF2F1
+regulation of transcription elongation by RNA polymerase II	CCNT1
+regulation of transcription elongation by RNA polymerase II	ELL
+regulation of transcription elongation by RNA polymerase II	LEO1
+regulation of transcription elongation by RNA polymerase II	EAF1
+regulation of transcription elongation by RNA polymerase II	CDC73
+regulation of transcription elongation by RNA polymerase II	MED26
+regulation of transcription elongation by RNA polymerase II	INTS1
+regulation of transcription elongation by RNA polymerase II	MED24
+regulation of transcription elongation by RNA polymerase II	CDK9
+regulation of transcription elongation by RNA polymerase II	SUPT16H
+regulation of transcription elongation by RNA polymerase II	INTS6
+regulation of transcription elongation by RNA polymerase II	SUPT6H
+regulation of transcription elongation by RNA polymerase II	MED17
+regulation of transcription elongation by RNA polymerase II	MED14
+regulation of transcription elongation by RNA polymerase II	MED11
+regulation of transcription elongation by RNA polymerase II	INTS3
+regulation of transcription elongation by RNA polymerase II	MED16
+regulation of transcription elongation by RNA polymerase II	NCBP1
+regulation of transcription elongation by RNA polymerase II	MED4
+regulation of transcription elongation by RNA polymerase II	MED31
+regulation of transcription elongation by RNA polymerase II	MED23
+regulation of transcription elongation by RNA polymerase II	MED30
+regulation of transcription elongation by RNA polymerase II	MED22
+regulation of transcription elongation by RNA polymerase II	MED27
+histone modification	SETD1A
+histone modification	PWWP2B
+histone modification	BRD4
+histone modification	DDX21
+histone modification	CTR9
+histone modification	MLLT1
+histone modification	IWS1
+histone modification	RTF1
+histone modification	TAF1
+histone modification	LEO1
+histone modification	CHD4
+histone modification	PAF1
+histone modification	CXXC1
+histone modification	CDC73
+histone modification	RNF2
+histone modification	RBBP5
+histone modification	PARP2
+histone modification	SAP30BP
+histone modification	MED24
+histone modification	CDK9
+histone modification	SUPT6H
+histone modification	MSL3
+histone modification	ENY2
+histone modification	HCFC1
+histone modification	BAP1
+histone modification	UHRF1
+histone modification	TAF6
+histone modification	SIN3A
+histone modification	EHMT1
+histone modification	RBM14
+histone modification	MSL2
+histone modification	EHMT2
+histone modification	TAF5
+histone modification	MTA2
+histone modification	DNMT1
+histone modification	OGT
+histone modification	DPY30
+histone modification	BRMS1
+histone modification	SPI1
+histone modification	MBD3
+histone modification	AKAP8
+histone modification	SF3B3
+histone modification	GTF3C4
+histone modification	YEATS2
+histone modification	GATAD2B
+histone modification	HDAC1
+chromatin remodeling	BRD4
+chromatin remodeling	BRD3
+chromatin remodeling	DDX21
+chromatin remodeling	CHD8
+chromatin remodeling	BRD2
+chromatin remodeling	CHD9
+chromatin remodeling	CTR9
+chromatin remodeling	MLLT1
+chromatin remodeling	NFRKB
+chromatin remodeling	CHD4
+chromatin remodeling	SMARCA4
+chromatin remodeling	SMARCD1
+chromatin remodeling	HELLS
+chromatin remodeling	SSRP1
+chromatin remodeling	SUPT16H
+chromatin remodeling	SUPT6H
+chromatin remodeling	MPHOSPH8
+chromatin remodeling	HCFC1
+chromatin remodeling	CHD1L
+chromatin remodeling	SIN3A
+chromatin remodeling	BCL7A
+chromatin remodeling	ACTR8
+chromatin remodeling	SMARCC1
+chromatin remodeling	MTA2
+chromatin remodeling	DNMT1
+chromatin remodeling	MBD3
+chromatin remodeling	YEATS2
+chromatin remodeling	GATAD2B
+chromatin remodeling	HDAC1
+epigenetic regulation of gene expression	CTR9
+epigenetic regulation of gene expression	SMARCD1
+epigenetic regulation of gene expression	HELLS
+epigenetic regulation of gene expression	MSL3
+epigenetic regulation of gene expression	MPHOSPH8
+epigenetic regulation of gene expression	SIN3A
+epigenetic regulation of gene expression	MSL2
+epigenetic regulation of gene expression	DNMT1
+epigenetic regulation of gene expression	OGT
+epigenetic regulation of gene expression	SPI1
+epigenetic regulation of gene expression	MBD3
+epigenetic regulation of gene expression	HDAC1
+BRD4	regulation of transcription elongation by RNA polymerase II
+BRD4	histone modification
+BRD4	chromatin remodeling
+BRD4	epigenetic regulation of gene expression
