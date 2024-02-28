@@ -1,17 +1,16 @@
 ## Analysis files accompanying paper entitle/topic "BRD4 & erythroid differentiation and development"
 
-#### By Hyacinth Meng   202110---202312
+#### By Hyacinth Meng   202110---202312---202402
 
-### This repository contains the bash and R code used to analyze and generate the images for the paper. Files contained are:
+### This repository contains the bash and R code that  used to analyze and generate the images for the paper. Files contained are:
 
 1. Analyse Epigenetics compound screening
 2. Analyse Digital RNA-Sequencing (UID-RNAseq)
 3. Analyse bulk RNAseq
-4. Analyse ATAcseq
-5. Analyse Cuttag
+4. Analyse bulk ATAcseq
+5. Analyse bulk Cuttag
 6. Time Series Gene Clustering
 7. Analyse co-immunoprecipitation (Co-IP) and mass spectrum (MS)  on BRD4
-
+8. Analyse bulkChipseq
 
 Please contact the author of the paper, Ye Meng (mengyeanhui@gmail.com), with any comments, concerns or requests. We'll be happy to help you adapt our pipeline for your analyses!
-
