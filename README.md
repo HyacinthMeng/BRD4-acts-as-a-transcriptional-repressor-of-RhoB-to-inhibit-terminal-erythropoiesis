@@ -9,8 +9,8 @@
 3. Analyse bulk RNAseq
 4. Analyse bulk ATAcseq
 5. Analyse bulk Cuttag
-6. Time Series Gene Clustering
-7. Analyse co-immunoprecipitation (Co-IP) and mass spectrum (MS)  on BRD4
-8. Analyse bulkChipseq
+6. Analyse bulk Chipseq
+7. Time Series Gene Clustering
+8. Analyse co-immunoprecipitation (Co-IP) and mass spectrum (MS)  on BRD4
 
-Please contact the author of the paper, Ye Meng (mengyeanhui@gmail.com), with any comments, concerns or requests. We'll be happy to help you adapt our pipeline for your analyses!
+Please contact the author of the paper, Ye Meng (mengyeanhui@gmail.com)  OR Meng zhang(zhangm1990@zju.edu.cn ) ), with any comments, concerns or requests. We'll be happy to help you adapt our pipeline for your analyses!
