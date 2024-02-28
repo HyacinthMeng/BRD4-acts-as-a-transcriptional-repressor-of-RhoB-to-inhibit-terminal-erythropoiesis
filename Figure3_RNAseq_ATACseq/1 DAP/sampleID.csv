@@ -1,0 +1,5 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,Peaks,PeakCaller
+D1,cell,BRD4,control,BRD4,1,../bam/D1.rmDup.rmChrM.bam,../9.macs2/D1.rmDup.rmChrM.bam_summits.bed,bed
+D2,cell,BRD4,control,BRD4,1,../bam/D2.rmDup.rmChrM.bam,../9.macs2/D2.rmDup.rmChrM.bam_summits.bed,bed
+M1,cell,BRD4,treated,BRD4,2,../bam/M1.rmDup.rmChrM.bam,../9.macs2/M1.rmDup.rmChrM.bam_summits.bed,bed
+M2,cell,BRD4,treated,BRD4,2,../bam/M2.rmDup.rmChrM.bam,../9.macs2/M3.rmDup.rmChrM.bam_summits.bed,bed

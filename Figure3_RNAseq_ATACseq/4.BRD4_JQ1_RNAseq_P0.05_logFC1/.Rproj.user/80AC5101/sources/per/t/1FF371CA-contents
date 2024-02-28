@@ -1,0 +1,42 @@
+###https://cran.r-project.org/web/packages/pheatmap/index.html
+  #It contains the inroduction of pheatmap#
+####----- BY MY   2021 rewrite @ZJU-----###
+
+###install and library pacakages################################################
+#install.packages("pheatmap")
+library(pheatmap)
+#setwd("") 
+
+##load file ###################################################################
+rt=read.table("diffExp.txt",sep="\t",header=T,check.names=F,row.names = 1)
+#rt=log2(rt+1)
+View(rt)
+
+Type=c(rep("Con",3),rep("EXP",3))    #Group type
+names(Type)=colnames(rt)
+Type=as.data.frame(Type)
+
+#tiff(file="heatmap.tiff",
+#     width = 45,            
+#     height =50,            
+#     units ="cm",
+#     compression="lzw",
+#     bg="white",
+#     res=300)
+#dev.off()
+
+pdf(file="heatmap1.pdf",width = 8.0,height = 10)
+#?pheatmap
+pheatmap(rt, annotation=Type, 
+         color = colorRampPalette(c("green", "black", "red"))(50),
+         cluster_cols =F,
+         scale="row",
+         show_rownames=F,
+         border_color=NA,
+         fontsize_row=3,
+         fontsize_col=5)
+dev.off()
+
+################################################################################
+################################################################################
+################################################################################
