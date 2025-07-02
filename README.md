@@ -14,3 +14,8 @@
 8. Analyse co-immunoprecipitation (Co-IP) and mass spectrum (MS)  on BRD4
 
 Please contact the author of the paper, Ye Meng (mengyeanhui@gmail.com)  OR Meng zhang(zhangm1990@zju.edu.cn ), with any comments, concerns or requests.
+
+
+Link： 
+https://jhoonline.biomedcentral.com/articles/10.1186/s13045-025-01721-2
+BRD4 acts as a transcriptional repressor of RhoB to inhibit terminal erythropoiesis
